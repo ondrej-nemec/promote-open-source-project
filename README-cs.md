@@ -10,7 +10,7 @@
 
 <h1 align="center">Tahák: jak propagovat open source projekt</h1>
 
-> V tomto taháku najdete, co byste měli udělat, pokud chcte co nejlépe propagovat svůj open source projekt. U každého bodu můžete rozkliknout detail.
+> V tomto taháku najdete, co byste měli udělat, pokud chcete co nejlépe propagovat svůj open source projekt. U každého bodu můžete rozkliknout detail.
 
 Dostupné jazyky:
 
@@ -32,7 +32,7 @@ Dostupné jazyky:
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-Nemůžete najít svůj jazyk? Chcete zlepšit tento tahák? [Contributions are welcome](./CONTRIBUTING.md)!
+Nemůžete najít svůj jazyk? Chcete zlepšit tento tahák? [Spolupracovníci](./CONTRIBUTING.md)!
 
 [PDF verze je dostupné zde.](./pdf/cheat-sheet.pdf)
 
