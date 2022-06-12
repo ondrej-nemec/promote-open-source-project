@@ -7,13 +7,14 @@
     <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
   </a>
 </p>
-<h1 align="center">Panduan promosi proyek Open source</h1>
 
-> Panduan sederhana ini merangkum langkah-langkah utama yang baik dilakukan untuk memasarkan proyek open source untuk hasil yang memuaskan. Anda dapat menekan setiap poin untuk penjelasan yang lebih lengkap.
+<h1 align="center">Tahák: jak propagovat open source projekt</h1>
 
-Berbagai pilihan bahasa lainnya:
+> V tomto taháku najdete, co byste měli udělat, pokud chcte co nejlépe propagovat svůj open source projekt. U každého bodu můžete rozkliknout detail.
 
-- &ltr;[العربية](./README-ar.md)
+Dostupné jazyky:
+
+- &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Čeština](./README-cs.md)
@@ -31,100 +32,100 @@ Berbagai pilihan bahasa lainnya:
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi](./CONTRIBUTING.md)!
+Nemůžete najít svůj jazyk? Chcete zlepšit tento tahák? [Contributions are welcome](./CONTRIBUTING.md)!
 
-[Versi PDF dari panduan ini dapat dilihat disini.](./pdf/cheat-sheet.pdf)
+[PDF verze je dostupné zde.](./pdf/cheat-sheet.pdf)
 
-## 1. 🎢 Persiapan
+## 1. 🎢 Příprava
 
 <br />
 
 <details>
-<summary>👌 Pastikan proyek Anda pantas ditampilkan</summary>
+<summary>👌 Ujistěte se, že projekt je už připraven</summary>
 <p>
 
-> Proyek Anda harus cukup stabil dan memiliki setidaknya fitur yang diperlukan agar dapat menarik perhatian.
+> Aby projekt uživatele zaujal, musí být dostatečně stabilní s minimem životaschopných funkcí.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Pilih nama proyek yang keren</summary>
+<summary>😎 Vyberte projektu cool název</summary>
 <p>
 
-> Pilihlah nama yang mudah diingat.
+> Vyberte takový název, který si uživatelé snadno zapamatují.
 
 </p>
 </details>
 
 <details>
-<summary>💅 Percantiklah README</summary>
+<summary>💅 Udělejte pěkné README</summary>
 <p>
 
-> README adalah yang pertama dilihat oleh pengunjung. Jadikanlah ia sederhana, cantik, dan mudah dibaca. [Inilah koleksi README yang cantik](https://github.com/matiassingers/awesome-readme)
+> README je první věc, které si návštěvníci všimnou. udělejte ho jednoduché, hezké a snadné na čtení. [Zde je seznam pěkných README](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 Pamerkan keunggulan proyekmu</summary>
+<summary>💪 Zdůrazněte silné stránky projektu</summary>
 <p>
 
-> Munculkan keunggulan proyekmu dan pastikan pengunjung melihatnya dulu.
+> Najděte silné stránky svého projektu a zajistěte, ať je návštěvníci vidí jako první.
 
 </p>
 </details>
 
 <details>
-<summary>✨ Fasilitasi demonstrasi proyek</summary>
+<summary>✨ Připravte demo projekt</summary>
 <p>
 
-> Pengunjung akan cepat menyerap tujuan dari proyek Anda, tentang bagaimana itu berkerja dan bagaimana cara menggunakannya. Memfasilitasi demonstrasi adalah cara terbaik untuk memuaskan pengguna. Contohnya:
+> Návštěvníci chtějí rychle pochopit účel projektu, jak funguje a jak ho použít. Nejlepší cestou je připravit demo. Může to být:
 >
-> - Sebuah animasi GIF yang menjelaskan cara kerja proyekmu
-> - Tautan kepada demonstrasi yang interaktif
+> - GIF animace ukazující jak projekt funguje
+> - Odkaz na živé demo
 
 </p>
 </details>
 
 <details>
-<summary>👌 Proses instalasi dan penggunaannya harus mudah</summary>
+<summary>👌 Instalace/Použití musí být velmi jednoduché</summary>
 <p>
 
-> Anda akan kehilangan pengguna jika proyek Anda sulit digunakan.
+> Pokud nebude projekt user-friendly, pravděpodobně přijdete o návštěvníky.
 
 </p>
 </details>
 
 <details>
-<summary>📘 Buatlah panduan manual yang rapi</summary>
+<summary>📘 Připravte srozumitelnou a dobře strukturovanou dokumentaci</summary>
 <p>
 
-> Membuat panduan manual yang berkualitas pastinya adalah langkah yang penting. Jika Anda hanya mempunyai panduan kecil, Anda dapat menyelipkannya ke README. Sebaliknya, Anda dapat menyimpannya di laman terpisah. Beberapa proyek open source seperti [vuepress](https://v1.vuepress.vuejs.org) dapat membantu Anda membuat panduan manual dengan mudah.
+> Vytvoření dobré dokumentace je pravděpodobně ten nejdůležitější krok. Pokud máte malou dokumentaci, stačí, když bude v README. V opačném případě by bylo dobré ji mít jako sólo stránku. Některé open source projekty, jako [vuepress](https://v1.vuepress.vuejs.org) Vám mohou snadno pomoci s vytvořením srozumitelné dokumentace.
 
  </p>
 </details>
 
 <br />
 
-## 2. 📢 Sebarkan usaha kerja kerasmu
+## 2. 📢 Ukažte, jak tvrdě jste pracovali
 
 <br />
 
 <details>
-<summary>⭐ Buatlah proyekmu terpercaya sebelum mempublikasikannya ke media sosial</summary>
+<summary>⭐ Zajistěte projektu důvěryhodnost před poblikováním na sociálních sítích</summary>
 <p>
 
-> Biasanya, pengunjung akan melihat banyaknya "Stars" yang proyek Anda punya sebelum mengambil keputusan. Setidaknya, beberapa "Stars" dapat membuat proyek Anda lebih dapat dipercaya ketimbang proyek yang memiliki 0 "Stars". Itulah mengapa Anda harus mengajak orang terdekat untuk membantu Anda.
+> Většína návštěvníků si před zvažováním použití zkontroluje počet hvězdiček projektu. I minimum hvězdiček udělá Váš projekt důvěryhodnější než žádné hvězdičky. Proto byste měli požádat své známé, aby podpořili Váš projekt ještě dřív, než s ním půjdete na veřejnost.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Sebarkan proyekmu di media sosial dan media khusus</summary>
+<summary>↗️ Sdílejte projekt na sociálních sítích a na specializovaných platformách</summary>
 <p>
 
-> Beritahukan kepada dunia mengenai produkmu! Publikasikan ke salah satu dari yang dibawah:
+> Řekněte světu o svém skvělém výtvoru! Možné sociální sítě a specializované platformy:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -141,10 +142,10 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>📃 Tulis artikel yang menyebutkan proyekmu</summary>
+<summary>📃 Napište články, ve kterých svůj projekt zmíníte</summary>
 <p>
 
-> Tulis artikel tentang proyekmu. Isi artikel dapat menjelaskan mengenai _stack_ yang digunakan, bagaimana cara proyekmu bekerja, masalah apa yang anda temukan, dsb. Lalu publikasikan artikel ke media publikasi seperti:
+> Napište články o svém projektu. Účelem může být technické řešení, které jste použili, popis, jak váš projekt funguje, problémy, se kterými jste se setkali a podobně. Uveřejněte na stránkách:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -153,91 +154,91 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>🎤 Presentasikan proyekmu di banyak pertemuan</summary>
+<summary>🎤 Prezentujte svůj projekt na konferencích/setkáních</summary>
 <p>
 
-> Dengan mempresentasikan proyekmu didepan umum, proyekmu akan dapat lebih banyak perhatian.
+> Dobrý způsob, jak zvýšit povědomí o Vašem projektu, je prezentace na konferencích nebo setkáních.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Buatlah video yang mempresentasikan proyekmu, bagaimana ia bekerja, dsb.</summary>
+<summary>🎥 Nahrajte a zveřejněte videa, která prezentují Váš projekt, jeho funkčnost apod.</summary>
 <p>
 
-> Merekam video bukanlah sesuatu yang mudah. Tapi, itu adalah metode yang paling efektif untuk membuat proyekmu terkenal.
+> Nahrávání videí není snadné. Ale je to asi ta nejefektivnější cesta, jak proslavit svůj projekt.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Pilih waktu yang tepat untuk publikasi di media sosial</summary>
+<summary>🕐 Zvolte nejlepší čas na zveřejnění na sociálních sítích</summary>
 <p>
 
-> Jangan publikasikan ketika musim liburan atau akhir pekan. Biasanya, waktu yang tepat adalah ditengah minggu.
+> Nezveřejňujte během prázdnin nebo o víkendu. Obvykle je je nejlepší čas ke zveřejnění uprostřed týdne.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Jangan membuat spam di media sosial dengan promosimu</summary>
+<summary>🗑 Nespamuj sítě svou prezentací</summary>
 <p>
 
-> Jangan mempublikasi dua kali ke media yang sama. Itu akan dideteksi sebagai spam dan mengurangi reputasi proyekmu.
+> Nezveřejňuj dvakrát na stejné síti. Bylo by to považováno za spam a by byla pro projekt špatná reklama.
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Pertahankan pengguna Anda
+## 3. 🤝 Udržte si uživatele
 
 <br />
 
 <details>
-<summary>🆕 Berusahalah untuk merilis versi baru dari waktu ke waktu</summary>
+<summary>🆕 Snažte se pravidelně vydávat nové verze</summary>
 <p>
 
-> Jaga dan tingkatkan proyek Anda dengan versi baru dan riwayat pergantian.
+> Udržujte a vylepšujte svůj projekt novými verzemi. Nezapomínejte na changelog.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Jaga proyek Anda, dan proses isu-isu yang ada</summary>
+<summary>❗ Udržujte projekt, zpracovávejte otevřená issue</summary>
 <p>
 
-> Jangan biarkan satupun isu tanpa respon. Berbaik hatilah kepada orang yang membuka isu tersebut. 😉
+> Nenechávejte otevřená issue bez odpovědi. Buďte milí na lidi, kteří věnovali čas na vytvoření issue. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Undang pengguna untuk berkontribusi</summary>
+<summary>🙏 Přizvěte uživatele ke spolupráci</summary>
 <p>
 
-> Proyek yang berkualitas adalah proyek dengan komunitas dan kontributor yang aktif. Jadikan penggunamu tahu bahwa anda butuh bantuan dengan melabelkan isu-isu dengan label `contribution welcome` atau `good first issue`. [Lihat github labels](https://help.github.com/en/articles/about-labels).
+> Zdravý projekt je projekt s komunitou a spolupracovníky. Ukažte uživatelům, že potřebuje pomoct. Otagujte projekt `contribution welcome` nebo `good first issue`. [Github labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Hargai kontributor</summary>
+<summary>🏆 Odměňte to contribute</summary>
 <p>
 
-> Jadilah baik dengan orang-orang yang membantumu! Beberapa proyek seperti [gatsby](https://github.com/gatsbyjs/gatsby) memberikan hadiah keren kepada kontributor seperti kaos. Jika Anda tidak dapat mengikuti metode tersebut, Anda dapat memberikan kata terima kasih lewat media sosial ([ini contohnya](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Buka bagian `Contributors` di README untuk memberikan kata terima kasih atau tampilkan mereka di panduan manual proyekmu. Berikut beberapa contohnya:
+> Buďte milí na lidi, kteří Vám pomohli! Některé open source projekty (jako například [gatsby](https://github.com/gatsbyjs/gatsby)) odměňují spolupracovníky. Pokud si to nemůžete dovolit, zveřejněte (na twitteru nebo jiné platformě) informace o spolupráci a autorovi ([Příklad veřejného poděkování](https://twitter.com/FranckAbgrall/status/1139470547492978688)). V README vytvořte sekci `Contributors` a veřejně jim poděkujte nebo je přidejte do své dokumentace či stránky. Pár příkladů:
 >
-> - [vuepress (bagian kontributor di README)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (kontributor secara acak di tampilkan di halamn demo)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 Buatlah media komunikasi komunitas</summary>
+<summary>💬 Spusťte komunitní chat</summary>
 <p>
 
-> GitHub Issues bukanlah yang terbaik dalam berkomunikasi dengan penggunamu. Jika perlu, Anda dapat menggunakan media komunikasi untuk berdiskusi dengan mereka:
+> Github issues nejsou vždy nejlepší cestou pro komunikaci s uživateli. Pokud je to nutné, můžete využít nějakou diskuzní platformu, jako:
 >
 > - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
@@ -247,34 +248,34 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>🔙 Tanyakan saran</summary>
+<summary>🔙 Žádejte o zpětnou vazbu</summary>
 <p>
 
-> Saran dari pengguna adalah jalan yang terbaik dalam memperbaiki proyek Anda. Mereka kemungkinan besar memiliki ide untuk fitur yang dapat meningkatkan kualitas proyek Anda.
+> Zpětná vazba od uživatelů je nejlepším způsobem ke zlepšení projektu. Pravděpodobně mají vylepšení a nápady, které Váš projekt vylepší.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Buka sebuah galeri studi kasus untuk memperlihatkan kreasi para pengguna menggunakan proyekmu</summary>
+<summary>❤️ Spusťte galerii ukázek toho, co uživatelé s Vaším projektem vytvořili</summary>
 <p>
 
-> Pendatang akan percaya dengan proyek Anda jika mereka melihat studi kasus yang lengkap dan cerita sukses, contohnya, [The Vuepress Gallery](https://vuepress.gallery/).
+> Návštěvníci budou věřit projektu, pokud uvidí konkrétní případy použití, úspěšné příběhy apod. [Vuepress gallery](https://vuepress.gallery/).
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Tunjukkan kepedulian Anda
+## 🙏 Show your support
 
-⭐️ repositori ini jika rangkuman ini membantumu!
+⭐️ Pokud Vám tento tahák pomohl, ohodnoťte ho hvězdou!
 
 <br />
 
-## ❤️ Para Kontributor
+## ❤️ Contributors
 
-Terima kasih banyak kami berikan kepada:
+Děkujeme těmto úžasným lidem:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -330,4 +331,4 @@ Terima kasih banyak kami berikan kepada:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Proyek ini mengikuti spesifikasi [all-contributors](https://github.com/all-contributors/all-contributors). Kontribusi apapun akan kami sambut dengan senang hati!
+Tento projekt se drží specifikace [all-contributors](https://github.com/all-contributors/all-contributors). Spolupracovníci jakéhokoli druhu jsou vítáni!

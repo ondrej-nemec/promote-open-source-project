@@ -17,6 +17,7 @@ Llista d'idiomes disponibles:
 - &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
+- [Čeština](./README-cs.md)
 - [Deutsch](./README-de.md)
 - [Español](./README-es.md)
 - [پارسی](./README-fa.md)
